@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeWork01/HomeWork01.iml" filepath="$PROJECT_DIR$/HomeWork01/HomeWork01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork02/HomeWork02.iml" filepath="$PROJECT_DIR$/HomeWork02/HomeWork02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork04/HomeWork04.iml" filepath="$PROJECT_DIR$/HomeWork04/HomeWork04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork05/HomeWork05.iml" filepath="$PROJECT_DIR$/HomeWork05/HomeWork05.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaHomeWork.iml" filepath="$PROJECT_DIR$/.idea/JavaHomeWork.iml" />
     </modules>
   </component>
